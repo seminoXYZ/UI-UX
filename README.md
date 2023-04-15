@@ -7,7 +7,7 @@ A financial search engine to ask a question and receive a tailored answer with g
 
 
 # Hatcher
-A one-click image generator using a custom Generative Adversarial Network (GAN). Built before recent revolution in AI systems like OpenAI ChatGPT. 
+A one-click image generator using a custom Generative Adversarial Network (GAN). Built before the recent developments in AI imaging like MidJourney.
 
 ![hatcher](https://user-images.githubusercontent.com/126365145/230830184-bfda2587-65f1-4751-b384-24f4856ee4eb.gif)
 
